@@ -27,8 +27,9 @@ Sample React-app to collect feedback from your users
 - Stripe
 - SendGrid
 - OAuth
+- MongoDB
 - Git
 
 ## Heroku
 
-[HerokuURL](https://blooming-mountain-10802.herokuapp.com)
+[Heroku-URL](https://blooming-mountain-10802.herokuapp.com)
