@@ -29,7 +29,3 @@ Sample React-app to collect feedback from your users
 - OAuth
 - MongoDB
 - Git
-
-## Heroku
-
-[Heroku-URL](https://blooming-mountain-10802.herokuapp.com)
